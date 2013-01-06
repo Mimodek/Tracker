@@ -1,0 +1,60 @@
+<BG_CAPTURE>
+    <val_0>0.000000</val_0>
+</BG_CAPTURE>
+<THRESHOLD_GAZE>
+    <val_0>43.916668</val_0>
+</THRESHOLD_GAZE>
+<MIN_BLOB>
+    <val_0>288.888916</val_0>
+</MIN_BLOB>
+<MAX_BLOB>
+    <val_0>8416.666992</val_0>
+</MAX_BLOB>
+<BLUR>
+    <val_0>11.000000</val_0>
+</BLUR>
+<CLEAR_MASK>
+    <val_0>0.000000</val_0>
+</CLEAR_MASK>
+<SAVE_MASK>
+    <val_0>0.000000</val_0>
+</SAVE_MASK>
+<LOAD_MASK>
+    <val_0>0.000000</val_0>
+</LOAD_MASK>
+<B_BG_SUB>
+    <val_0>1.000000</val_0>
+</B_BG_SUB>
+<B_MOTION>
+    <val_0>0.000000</val_0>
+</B_MOTION>
+<B_BLOB_TRACK>
+    <val_0>1.000000</val_0>
+</B_BLOB_TRACK>
+<B_COLOR_TRACK>
+    <val_0>1.000000</val_0>
+</B_COLOR_TRACK>
+<HUE>
+    <val_0>255.000000</val_0>
+</HUE>
+<SAT>
+    <val_0>0.000000</val_0>
+</SAT>
+<VAL>
+    <val_0>255.000000</val_0>
+</VAL>
+<MOT_THRESHOLD>
+    <val_0>80.000000</val_0>
+</MOT_THRESHOLD>
+<MOT_MIN_BLOB>
+    <val_0>10.000000</val_0>
+</MOT_MIN_BLOB>
+<MOT_MAX_BLOB>
+    <val_0>10000.000000</val_0>
+</MOT_MAX_BLOB>
+<MOT_BLUR>
+    <val_0>11.000000</val_0>
+</MOT_BLUR>
+<FADE_RATE>
+    <val_0>0.990000</val_0>
+</FADE_RATE>
